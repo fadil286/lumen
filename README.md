@@ -1,8 +1,8 @@
 # Lumen
 
-![best-game-01](https://make.fun/badge/best-game-01.svg)
-![rank](https://make.fun/badge/best-game-01/fadil286/lumen/rank.svg)
-![reward](https://make.fun/badge/best-game-01/fadil286/lumen/reward.svg)
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/fadil286/lumen/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/fadil286/lumen/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
 A firefly's light is its life. Steer a firefly through a dark night, collect
 golden light motes to feed your light, and dodge the dark: wisps that chase,
